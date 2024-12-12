@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectWorkout</string>
+    <string name="loginTxt">Are you have an account? <font color="#FD511E">Sign In</font></string>
+</resources>
